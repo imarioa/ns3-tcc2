@@ -1,0 +1,20 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+Completed configuration
+Running simulation...
+SF Allocation: SF7=175 SF8=68 SF9=76 SF10=100 SF11=143 SF12=38
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Computing performance metrics
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+nDevices: 600
+throughput: 0.633056
+probSucc: 0.633056 (63.3056%)
+probLoss: 0.366944 (36.6944%)
+avgDelay: 93682.2
+----------------------------------
+
+numDev:600 numGW:1 simTime:3600 throughput:0.633056
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+sent:3600	sentAtk:354    succ:2279     drop:1321   delay:93682.2
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+

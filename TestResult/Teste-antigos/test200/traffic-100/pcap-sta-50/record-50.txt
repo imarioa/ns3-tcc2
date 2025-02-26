@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/home/imario/Documentos/UFC/TCC/ns-3/./ns3", line 1620, in <module>
+    main()
+  File "/home/imario/Documentos/UFC/TCC/ns-3/./ns3", line 1591, in main
+    build_step(args,
+  File "/home/imario/Documentos/UFC/TCC/ns-3/./ns3", line 1100, in build_step
+    cmake_build(current_cmake_cache_folder,
+  File "/home/imario/Documentos/UFC/TCC/ns-3/./ns3", line 870, in cmake_build
+    cmake, version = cmake_check_version()
+  File "/home/imario/Documentos/UFC/TCC/ns-3/./ns3", line 861, in cmake_check_version
+    cmake_output = subprocess.check_output([cmake, "--version"]).decode("utf-8")
+  File "/usr/lib/python3.10/subprocess.py", line 421, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+  File "/usr/lib/python3.10/subprocess.py", line 505, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+  File "/usr/lib/python3.10/subprocess.py", line 1141, in communicate
+    stdout = self.stdout.read()
+KeyboardInterrupt

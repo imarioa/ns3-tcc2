@@ -1,0 +1,3 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+Command 'build/scratch/ns3-dev-lorawan-network-mClass-sim-att-debug --nSeed=9663 --nDevices=0 --nGateways=1 --radius=8500 --gatewayRadius=0 --simulationTime=3600 --appAtkPeriod=60 --appPeriod=100 --file1=./TestResult/test856/traffic-100/result-STAs.dat --file2=./TestResult/test856/traffic-100/mac-STAs-GW-1.txt --print=1 --trial=856' returned non-zero exit status 1.
